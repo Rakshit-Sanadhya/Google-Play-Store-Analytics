@@ -103,6 +103,3 @@ Machine Learning Predictions: Forecast app performance based on past trends.
 This project was developed under NullClass Edtech Pvt Ltd as part of the internship program with @copyright 2025.
 
 For any queries, feel free to connect via email at sanadhyarakshit@gmail.com.
-
-🚀 Live Project Link:
-1. 
